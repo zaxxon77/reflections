@@ -16,6 +16,3 @@ Can always revert back to working copy
 
 Now that you have your workspace set up, what do you want to try using Git for?
 completing the next assignment
-
-What happens when you initialize a repository? Why do you need to do it?
-to create the .git directory and start tracking changes
