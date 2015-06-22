@@ -9,3 +9,7 @@ Only stage something after a logical change
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you're testing out changes but still want a working copy of the project, or you want to support multiple versions of the project
+
+How do the diagrams help you visualize the branch structure?
+You can see paths and see what's reachable
+
