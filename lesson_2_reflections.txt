@@ -13,3 +13,5 @@ When you're testing out changes but still want a working copy of the project, or
 How do the diagrams help you visualize the branch structure?
 You can see paths and see what's reachable
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+shit hits the fan
