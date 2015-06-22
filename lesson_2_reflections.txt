@@ -15,3 +15,7 @@ You can see paths and see what's reachable
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 shit hits the fan
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pro: it makes things easy
+con: need to manually sort out conflicts
